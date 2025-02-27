@@ -12,7 +12,6 @@ col.sort()
 
 top = sorted(col, key=lambda x: -x[1])[0]
 top_idx = col.index(top)
-#top[0]이 top_idx, top[1]이 top_height
 
 left = 0
 right = N-1
@@ -33,8 +32,5 @@ while right > top_idx:
     right_area += (col[right][0] - col[right-1][0]) * right_roof
     right -= 1
     last_right_roof = right_roof
-
-
-#area += col[left][1]
 
 print(left_area + right_area + top[1])
