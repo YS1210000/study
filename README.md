@@ -20,9 +20,19 @@ https://school.programmers.co.kr/learn/challenges?order=recent
 특정 범위 내의 소수 구하기 문제 -> 에라토스테네스의 체 https://github.com/YS1210000/study/blob/main/baekjoon/2581.py
 
 
-# 북마크
+# 근무
 https://www.narastat.kr/   '57-03 인구' 완료
 
+나라통계 특이사항)
+노인주거복지시설 -> 양식이 다 같이 한번에 바뀌어서 보류
+
+일본어 98
+선대수 32
+알고리즘 87
+
+
+
+# 북마크
 https://www.geeksforgeeks.org/machine-learning/?ref=outind
 
 https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf
