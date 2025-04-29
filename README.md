@@ -21,7 +21,7 @@ https://school.programmers.co.kr/learn/challenges?order=recent
 
 
 # 북마크
-https://www.narastat.kr/
+https://www.narastat.kr/   '57-03 인구' 완료
 
 https://www.geeksforgeeks.org/machine-learning/?ref=outind
 
