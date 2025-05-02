@@ -19,6 +19,8 @@ https://school.programmers.co.kr/learn/challenges?order=recent
 
 특정 범위 내의 소수 구하기 문제 -> 에라토스테네스의 체 https://github.com/YS1210000/study/blob/main/baekjoon/2581.py
 
+모든 정점에서의 최단 거리 -> 플로이드 워셜 알고리즘 https://velog.io/@kimdukbae/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Floyd-Warshall-Algorithm
+
 
 # 근무
 https://www.narastat.kr/   '57-03 인구' 완료
