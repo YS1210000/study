@@ -22,15 +22,6 @@ https://school.programmers.co.kr/learn/challenges?order=recent
 모든 정점에서의 최단 거리 -> 플로이드 워셜 알고리즘 https://velog.io/@kimdukbae/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Floyd-Warshall-Algorithm
 
 
-# 근무
-https://www.narastat.kr/   '57-03 인구' 완료
-
-나라통계 특이사항)
-노인주거복지시설 -> 양식이 다 같이 한번에 바뀌어서 보류
-
-일본어 98 / 선대수 32 / 알고리즘 87
-
-
 
 # 북마크
 https://www.geeksforgeeks.org/machine-learning/?ref=outind
