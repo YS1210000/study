@@ -21,7 +21,7 @@ https://school.programmers.co.kr/learn/challenges?order=recent
 
 모든 정점에서의 최단 거리 -> 플로이드 워셜 알고리즘 https://velog.io/@kimdukbae/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Floyd-Warshall-Algorithm
 
-
+재귀 문제 -> sys.setrecursionlimit(값) 을 사용하여 Recursion Error를 막을 수 있음. 단, 너무 큰 값을 지정하면 메모리 초과가 발생할 수 있으므로 적절한 값을 찾아내야 함.
 
 # 북마크
 https://www.geeksforgeeks.org/machine-learning/?ref=outind
