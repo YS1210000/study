@@ -1,13 +1,13 @@
 import sys
 
-strA = " "+sys.stdin.readline().rstrip()
-strB = " "+sys.stdin.readline().rstrip()
+strA = [""]+list(sys.stdin.readline().rstrip())
+strB = [""]+list(sys.stdin.readline().rstrip())
 
-table = [[[] for _ in range(len(strA))] for _ in range(len(strB))]
+table = [['' for _ in range(len(strA))] for _ in range(len(strB))]
 for i in range(1, len(strA)):
     for j in range(1, len(strB)):
         if strA[i] == strB[j]:
-            table[j][i] += table[j-1][i-1] + [strA[i]]
+            table[j][i] = table[j-1][i-1] + strA[i]
         else:
             if len(table[j-1][i]) >= len(table[j][i-1]):
                 table[j][i] = table[j-1][i]
@@ -16,4 +16,4 @@ for i in range(1, len(strA)):
 
 print(len(table[-1][-1]))
 if len(table[-1][-1]) != 0:
-    print("".join(table[-1][-1]))
+    print(table[-1][-1])
