@@ -34,6 +34,7 @@ https://www.acmicpc.net/workbook/view/8708
 
 https://www.acmicpc.net/workbook/view/1833
 
+https://www.acmicpc.net/workbook/view/1152
 https://edition.cnn.com/
 
 https://covenant.tistory.com/224
@@ -49,3 +50,10 @@ https://oh2279.tistory.com/category/AI%20%EB%85%BC%EB%AC%B8%20%EA%B3%B5%EB%B6%80
 https://codingdodo.tistory.com/94
 
 https://github.com/tony9402/baekjoon
+
+https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki
+
+https://alida.tistory.com/11
+
+
+
